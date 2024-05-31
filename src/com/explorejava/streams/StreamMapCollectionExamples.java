@@ -1,0 +1,1 @@
+package com.explorejava.streams;public class StreamMapCollectionExamples {}
